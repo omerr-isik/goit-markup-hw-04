@@ -24,7 +24,7 @@ ul {
 a {
   text-decoration: none;
   font-style: normal;
-  color: currentColor;
+  color: #404bbf;
 }
 
 button {
@@ -99,8 +99,6 @@ img {
   display: flex;
   gap: 40px;
 }
-.header-menu-item {
-}
 
 .current {
   color: #404bbf;
@@ -117,7 +115,6 @@ img {
   height: 4px;
   background-color: #404bbf;
   border-radius: 2px;
-  transition: ;
 }
 
 .header-menu-link {
@@ -143,8 +140,7 @@ img {
   gap: 40px;
   align-items: center;
 }
-.header-address-item {
-}
+
 .header-address-link {
   font-size: 16px;
   line-height: 1.5;
@@ -218,11 +214,8 @@ img {
 
 /* FEATURES */
 
-.features {
-}
 
-.features-title {
-}
+
 
 .visually-hidden {
   position: absolute;
@@ -358,8 +351,7 @@ img {
 
 /* PRODUCT */
 
-.product {
-}
+
 .product-title {
   font-weight: 700;
   font-size: 36px;
@@ -388,8 +380,7 @@ img {
   position: relative;
   overflow: hidden;
 }
-.product-list-img {
-}
+
 .product-card-text {
   position: absolute;
   top: 0;
@@ -485,8 +476,7 @@ img {
   display: flex;
   gap: 16px;
 }
-.footer-socials-item {
-}
+
 .footer-list-link {
   display: flex;
   background-color: #4d5ae5;
